@@ -11,7 +11,7 @@ body {
 .sample{font-size: 70px;}
 
 .navbg{
-    background-color: blue;
+    background-color: orange;
     padding:1%;
 }
 
@@ -28,7 +28,7 @@ body {
    
 }
 
-/*ul{
+ul{
   list-style: none;
-}*/
+}
 
